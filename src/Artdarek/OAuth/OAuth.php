@@ -7,7 +7,7 @@
  */
 
 use \Config;
-use \URL;
+use \Illuminate\Support\Facades\URL;
 
 use \OAuth\ServiceFactory;
 use \OAuth\Common\Consumer\Credentials;
