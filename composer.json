@@ -23,10 +23,7 @@
         }
     ],
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/hybero/PHPoAuthLib.git"
-        }
+
     ],
     "require": {
         "php": ">=5.4",
