@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "hybero/oauth": "v1.1.0"
+        "hybero/oauth": "dev-master#v1.1.0"
     },
     "require-dev": {
         "illuminate/support": "~5"
